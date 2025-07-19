@@ -1,1 +1,3 @@
-Bu benim bitirme projesidir.
+-KUTUPHANE YONETIM SISTEMI-
+Bitirme projesidir.
+
